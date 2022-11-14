@@ -84,7 +84,7 @@ jappert:
     - newvm
 mv^:
   full_name: Martin de Vries
-  rir_handle: MV
+  rir_handle: 
   country: nl
 teun:
   full_name: Teun Vink
